@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @wlgah
-- 👀 I’m interested in Flutter and Node.js projects
-- 🌱 Aspiring Node.js, MongoDB and Flutter Developer
-- 💞️ I’m looking to collaborate on remote and major projects 
-- 📫 How to reach me w.gahlord@gmail.com/ +233 242362963
+Hey there, Wisdom Lord Gah
+👨🏻‍💻 About Me
+🎓 I'm an Agricultural Engineering Graduate from the university of Ghana, Legon.
+💡 Interested in working alongside like minded people enthusiastic about ReactJS, FullStack Development, Software Development or developing cutting edge tech.
+🌱 I'm on track for enhancing my knowledge about AWS cloud computing.
+⚡ My hobbies include short story writing and debating.
+✉️ You can reach out to me via email at w.gahlord@gmail.com.
 
-<!---
-wlgah/wlgah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠 Languages and Tools
+flutter  Dart Java  Python  ReactJS  NodeJS  Firebase  SQL  HTML  CSS  Git  GitHub  Visual Studio Code  Sublime Text  Android Studio
+
+⚙️ GitHub Analytics
